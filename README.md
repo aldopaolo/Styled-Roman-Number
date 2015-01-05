@@ -1,4 +1,4 @@
 Styled-Roman-Number
 ===================
 
-Roman number in Classic (ex. XXXX) and Modern (ex. XL) Styles
+Roman number in Classic (i.e. XXXX) and Modern (i.e. XL) Styles
